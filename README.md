@@ -22,3 +22,6 @@ This noteook conducts exploratory data analysis using geospatial data and folium
 
 ### 7. Dashboarding with Plotly
 The folder provides a dashboard which acts as an interactive platform for data visualization
+
+### 8. Prediction - Model Building
+The noteook trains and evaluates various models to fit the data set, finding the optimal parameters and scores to determine the best model for classification.
