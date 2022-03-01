@@ -11,5 +11,8 @@ This noteook collects launch data from Wikipedia tables leveraging on BeautifulS
 ### 3. Data Wrangling - EDA
 This noteook conducts basic exploratory data analysis, exploring the data types and statistics of the gathered data to understand the data better.
 
-### 3. Data Wrangling - EDA with Visualization
+### 4. Data Wrangling - EDA with Visualization
 This noteook visualizes the gathered data via charts (scatterplots and barcharts) and provides a visual representation on the various inter-columns relationships.
+
+### 5. Data Wrangling - EDA with SQL
+This noteook conducts exploratory data analysis via SQL
