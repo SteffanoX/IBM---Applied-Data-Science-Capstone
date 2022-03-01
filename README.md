@@ -16,3 +16,9 @@ This noteook visualizes the gathered data via charts (scatterplots and barcharts
 
 ### 5. Data Wrangling - EDA with SQL
 This noteook conducts exploratory data analysis via SQL
+
+### 6. Data Wrangling - Interactive Visualiation
+This noteook conducts exploratory data analysis using geospatial data and folium maps.
+
+### 7. Dashboarding with Plotly
+The folder provides a dashboard which acts as an interactive platform for data visualization
